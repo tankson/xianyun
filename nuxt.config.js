@@ -6,7 +6,7 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: "闲云旅游网",
+    title: "广东十大青年",
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
